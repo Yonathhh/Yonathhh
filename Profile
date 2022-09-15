@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Profile</title>
+</head>
+<body>
+	<h2>Nama Lengkap: YONATHAN BENYAMIN SUDJIANTO</h2>
+    <h2>Nama Panggilan: Natan</h2>
+    <h2>Kelas: 11</h2>
+	<h2>Tempat Tanggal Lahir: Bandung, 24 April 2006</h2>
+	<h2>Anak Ke: 3</h2>
+	<h2>Alamat Rumah: Taman Kopo Indah 3 C1 No1</h2>
+	<h2>Alamat Sekolah: Jl. Cibadak Gg Sereh No.26</h2>
+    <h2>Telepon: 082116778386</h2>
+    <h2></h2>
+</body>
+</html>
